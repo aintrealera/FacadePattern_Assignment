@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Facade Pattern — Media Conversion
 
 ## Overview
